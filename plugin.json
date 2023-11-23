@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Bank Wire -- Luminor",
+  "SystemName": "Payments.CheckMoneyOrder.Luminor",
+  "Version": "1.49",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "1CLICK.LV",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.CheckMoneyOrder.Luminor.dll",
+  "Description": "This plugin enables check and money order payments"
+}
